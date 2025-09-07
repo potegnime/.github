@@ -48,9 +48,3 @@ TODO
 ## License
 
 Distributed under the MIT License. See [`LICENSE.txt`](LICENSE.txt) for more information.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/lan-lebar)
-
-Email: [lanlebar6@gmail.com](mailto:lanlebar6@gmail.com)
