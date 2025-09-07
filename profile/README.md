@@ -2,7 +2,6 @@
   <a href="https://potegni.me/">
     <img src="../images/logo.png" alt="Logo" height="80">
   </a>
-  <h3 align="center" style="margin-top:0;">potegni.me</h3>
 </div>
 
 ## About The Project
@@ -43,7 +42,8 @@ Built with Angular framework using HTML, SCSS and TypeScript. Utilizing [Bootstr
 ## Backend
 [potegnime-api](https://github.com/lebaaar/potegnime-api)
 
-
+## Contributing
+TODO
 
 ## License
 
@@ -51,6 +51,6 @@ Distributed under the MIT License. See [`LICENSE.txt`](LICENSE.txt) for more inf
 
 ## Contact
 
-Lan Lebar - [LinkedIn](https://www.linkedin.com/in/lan-lebar) - lanlebar6@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lan-lebar)
 
-Project Link: [https://github.com/lebaaar/potegnime-angular](https://github.com/lebaaar/potegnime-angular)
+Email: [lanlebar6@gmail.com](mailto:lanlebar6@gmail.com)
