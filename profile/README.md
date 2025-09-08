@@ -4,9 +4,7 @@
   </a>
 </div>
 
-## About The Project
-
-Torrent search platform build with Angular ASP.NET.
+## Torrent search platform build with Angular ASP.NET.
 
 Features:
 -  User registration and login system
