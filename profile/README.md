@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Torrent search platform build with Angular ASP.NET.
+## Torrent search platform
 
 Features:
 -  User registration and login system
@@ -35,10 +35,12 @@ Project is 100% free to use and contains no ads. Because of this it runs entirel
 ## Frontend
 [potegnime-angular](https://github.com/lebaaar/potegnime-angular)
 
-Built with Angular framework using HTML, SCSS and TypeScript. Utilizing [Bootstrap](https://getbootstrap.com/). Designed in Figma.
+Built with Angular framework using HTML, SCSS and TypeScript. Utilizing [Bootstrap](https://getbootstrap.com/).
 
 ## Backend
 [potegnime-api](https://github.com/lebaaar/potegnime-api)
+
+Build with ASP.NET for the main backend & express.js for the torrent scraper API. Using PostgreSQL database witg EF Core.
 
 ## Contributing
 TODO
