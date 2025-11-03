@@ -38,7 +38,7 @@ Project is 100% free to use and contains no ads. Because of this it runs entirel
 Built with Angular framework using HTML, SCSS and TypeScript. Utilizing [Bootstrap](https://getbootstrap.com/).
 
 ## Backend
-[potegnime-api](https://github.com/lebaaar/potegnime-api)
+[potegnime-api](https://github.com/potegnime/potegnime-api)
 
 Build with ASP.NET for the main backend & express.js for the torrent scraper API. Using PostgreSQL database witg EF Core.
 
