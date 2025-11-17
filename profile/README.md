@@ -3,7 +3,7 @@
     <img src="../images/logo.png" alt="Logo" height="80">
   </a>
   <hr>
-  <p>potegni.me is a <b>web-based torrent search platform</b>, that allows users to access a wide variety of content from multiple sources. Get movies, books, audio and more for freee!</p>
+  <p>potegni.me is a <b>web-based torrent search platform</b>, that allows users to access content from multiple sources. Get movies, books, audio and more for free!</p>
 </div>
 
 ## Features
