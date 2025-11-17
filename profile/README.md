@@ -16,10 +16,7 @@
     - I'm feeling lucky functionality, to generate ideas on what to watch
     - Movie/series of the day (set by admins then visible to other users)
 
-Project is 100% free to use. Because of this it runs entirely on free hosting, so things might be a little slow at times:
-- Frontend: deployed on [Cloudflare Pages](http://pages.cloudflare.com/)
-- APIs: hosted on [Render](https://render.com/)
-- Postgres: hosted on [Neon](https://neon.com/)
+Project is 100% free to use. Hosting and maintaining the project sadly isn't. If you like potrgni.me please consider [donating](https://potegni.me/donacije) to keep us alive.
 
 Torrent searching (scraping) is provided by [torrent-search-api](https://www.npmjs.com/package/torrent-search-api).<br>
 Recommendation data is provided by [TMDB API](https://www.themoviedb.org/).
@@ -50,6 +47,9 @@ Build with ASP.NET with C#. JWT authentication, PostgreSQL database with EF Core
 
 [potegnime-scraper](https://github.com/potegnime/potegnime-scraper)<br>
 Search/scraper API, build it Express.js.
+
+[potegnime-tracker](https://github.com/potegnime/potegnime-tracker)<br>
+Torrent tracker built in C.
 
 ## License
 Distributed under the MIT License. See [license page](https://potegni.me/licenca) for more information.
