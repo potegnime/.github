@@ -52,4 +52,4 @@ Search/scraper API, build it Express.js.
 Torrent tracker built in C.
 
 ## License
-Distributed under the MIT License. See [license page](https://potegni.me/licenca) for more information.
+Distributed under the GNU General Public License v3 license. See [license page](https://github.com/potegnime/potegnime-angular/blob/main/LICENSE) for more information.
