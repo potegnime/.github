@@ -10,29 +10,22 @@
 - Search for torrents from public torrent trackers such as [ThePirateBay](https://thepiratebay.org/), [YTS](https://yts.mx/) and more
 - [COMING SOON] - native torrent tracker!
 -  User registration and login
-    - Modern authentication using JWT
+    - Authentication using JWT
     - Role-based access control  - regular users, admins and uploaders 
 - Explore movies and series
     - I'm feeling lucky functionality, to generate ideas on what to watch
+    - Explore functionality powered by [TMDB](https://www.themoviedb.org/)
     - Movie/series of the day (set by admins then visible to other users)
 
-Project is 100% free to use. Hosting and maintaining the project sadly isn't. If you like potrgni.me please consider [donating](https://potegni.me/donacije) to keep us alive.
-
-Torrent searching (scraping) is provided by [torrent-search-api](https://www.npmjs.com/package/torrent-search-api).<br>
-Recommendation data is provided by [TMDB API](https://www.themoviedb.org/).
+Project is 100% free to use. Hosting and maintaining the project sadly isn't. If you like potrgni.me please consider [donating](https://potegni.me/donate) to keep us alive.
 
 ## Gallery
-<div align="center">
-  <small ><i>To be updated, project was formerly known as nalozi.si</i></small>
-</div>
-<br>
 
 ![Login and sign up screen](../images/login.png)
 ![Home page](../images/home.png)
 ![Search torrents](../images/search.png)
 ![Profile page](../images/profile.png)
 ![Edit profile page](../images/edit.png)
-![Administration page](../images/admin.png)
 
 ## Development
 All contributions to the project are welcome! If you have a suggestion/idea/bug to report, please open an issue under one of the repositories listed below:<br>
